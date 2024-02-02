@@ -15,7 +15,7 @@
         <spring.version>4.1.7.RELEASE</spring.version>
         <slf4j.version>1.7.25</slf4j.version>
         <log4j.version>2.17.1</log4j.version>
-        <org.springframework.version>5.2.20.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.22.RELEASE</org.springframework.version>
         <zookeeper.version>3.4.0</zookeeper.version>
         <reflections.version>0.9.10</reflections.version>
         <aspectj.version>1.8.9</aspectj.version>
